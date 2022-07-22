@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\project2\Grammarpda\Grammarpda\bin\Debug\netcoreapp3.1\Grammarpda.exe
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\project2\Grammarpda\Grammarpda\bin\Debug\netcoreapp3.1\Grammarpda.deps.json
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\project2\Grammarpda\Grammarpda\bin\Debug\netcoreapp3.1\Grammarpda.runtimeconfig.json
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\project2\Grammarpda\Grammarpda\bin\Debug\netcoreapp3.1\Grammarpda.runtimeconfig.dev.json
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\project2\Grammarpda\Grammarpda\bin\Debug\netcoreapp3.1\Grammarpda.dll
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\project2\Grammarpda\Grammarpda\bin\Debug\netcoreapp3.1\Grammarpda.pdb
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\project2\Grammarpda\Grammarpda\obj\Debug\netcoreapp3.1\Grammarpda.csprojAssemblyReference.cache
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\project2\Grammarpda\Grammarpda\obj\Debug\netcoreapp3.1\Grammarpda.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\project2\Grammarpda\Grammarpda\obj\Debug\netcoreapp3.1\Grammarpda.AssemblyInfo.cs
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\project2\Grammarpda\Grammarpda\obj\Debug\netcoreapp3.1\Grammarpda.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\project2\Grammarpda\Grammarpda\obj\Debug\netcoreapp3.1\Grammarpda.dll
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\project2\Grammarpda\Grammarpda\obj\Debug\netcoreapp3.1\Grammarpda.pdb
+C:\Users\user\Desktop\FatemehUni\Term6\theory of language\project2\Grammarpda\Grammarpda\obj\Debug\netcoreapp3.1\Grammarpda.genruntimeconfig.cache
